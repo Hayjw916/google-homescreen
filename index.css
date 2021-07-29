@@ -13,14 +13,23 @@ nav {
 
 .nav-link {
 	padding: 6px;
+	position: relative;
+	align-self: center;
 }
 
 #pfp {
 	border-radius: 50%;
-	width: 15%;
+	width: 45%;
 	height: 100%;
+	position: relative;
 }
 
 #app-icon {
 	color: gray;
+	padding: 4px;
+}
+
+#right-navbar {
+	display: flex;
+	justify-content: center;
 }

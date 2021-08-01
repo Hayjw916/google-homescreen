@@ -33,3 +33,15 @@ nav {
 	display: flex;
 	justify-content: center;
 }
+
+#google-image {
+	padding: 3px;
+	display: flex;
+	justify-content: center;
+}
+
+#search-bar-and-buttons {
+	display: flex;
+	justify-content: center;
+	padding: 5px;
+}

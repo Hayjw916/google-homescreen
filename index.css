@@ -40,8 +40,12 @@ nav {
 	justify-content: center;
 }
 
-#search-bar-and-buttons {
-	display: flex;
-	justify-content: center;
-	padding: 5px;
+#search {
+	position: relative;		
+	width: -webkit-fill-available;
+}
+
+#search-field {
+	width: 50%;
+	margin: 0 auto;
 }

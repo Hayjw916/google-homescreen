@@ -46,7 +46,7 @@ nav {
 	padding: 6px;
 }
 
-#search-fieldx {
+#search-field {
 	width: 50%;
 	margin: 0 auto;
 }
@@ -57,8 +57,10 @@ nav {
 }
 
 #buttons {
-	display: flex;	
-	justify-content: center;
+	text-align: center;
 	padding: 20px;
 }
 
+.google-buttons {
+	margin: 3px;
+}
